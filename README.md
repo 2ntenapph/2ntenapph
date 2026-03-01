@@ -1,4 +1,4 @@
-<h1>Yo. I’m Anttenna</h1> <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZpMWJydDZ3eGtzanp4OGEwNWUwZWxwbG56aHQ0NW1vcW9hZWo3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif" width="20" /></p>
+<h1>Yo. I’m Anttenna</h1><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZpMWJydDZ3eGtzanp4OGEwNWUwZWxwbG56aHQ0NW1vcW9hZWo3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif" width="40" />
 
 
 I build systems that do the job, don’t complain, and don’t fall apart the second traffic shows up.
